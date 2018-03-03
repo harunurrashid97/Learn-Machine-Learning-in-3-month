@@ -1,6 +1,5 @@
 # Learn Machine Learning in =>3 Months
-
-This is the Curriculum for "Learn Machine Learning in 3 Months" [this](https://youtu.be/Cr6VqTRO1v0) video by Siraj Raval on Youtube 
+ 
 
 # Month 1
 
@@ -42,5 +41,5 @@ Deep Learning by Fast.AI
 http://course.fast.ai/
 
 ## Week 3-4 
-Re-implement DL projects from my github
-https://github.com/llSourcell?tab=repositories
+Re-implement DL projects 
+
