@@ -1,5 +1,5 @@
 # Learn Machine Learning in =>3 Months
- [Machine learning](ML_Pic.jpeg)
+ ![Machine learning](ML_Pic.jpeg)
 
 # Month 1
 
