@@ -4,7 +4,7 @@
 # Month 1
 
 ## Week 1 Linear Algebra
-https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 ## Week 2 Calculus
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 ## Week 3 
@@ -16,7 +16,7 @@ https://www.coursera.org/courses?languages=en&query=Algorithm%20design%20and%20a
 
 ## Week 1 
 learn python for data science
-https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU
+https://www.coursera.org/specializations/data-science-python
 Math of Intelligence
 https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D
 Intro to Tensorflow
