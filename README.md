@@ -1,4 +1,4 @@
-# Learn Machine Learning in =>3 Months
+# Learn Machine Learning in 3 Months
  ![Machine learning](ML_Pic.jpeg)
 
 # Month 1
